@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeetingGroups.Admin.BlazorApp", "MeetingGroups.Admin.BlazorApp\MeetingGroups.Admin.BlazorApp.csproj", "{19E3FE12-C9CB-4C32-BB26-C0AA91BE9AFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19E3FE12-C9CB-4C32-BB26-C0AA91BE9AFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19E3FE12-C9CB-4C32-BB26-C0AA91BE9AFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19E3FE12-C9CB-4C32-BB26-C0AA91BE9AFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19E3FE12-C9CB-4C32-BB26-C0AA91BE9AFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F9A03E5-F585-4E96-9E65-B96CDA7B1BB9}
+	EndGlobalSection
+EndGlobal
