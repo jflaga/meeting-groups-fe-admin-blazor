@@ -1,11 +1,13 @@
 ﻿@page "/weather"
+@using Microsoft.AspNetCore.Authorization
 @attribute [StreamRendering]
+@attribute [Authorize("Admin")]
 
 <PageTitle>Weather</PageTitle>
 
 <h1>Weather</h1>
 
-<p>This component demonstrates showing data.</p>
+<p>This component demonstrates showing data for Admin.</p>
 
 @if (forecasts == null)
 {
